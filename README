@@ -1,0 +1,4 @@
+AUTHOR: Duncan Donaldson
+ABOUT:
+
+Creating a highly scalable epoll server for the purposes of learning how the call works.
